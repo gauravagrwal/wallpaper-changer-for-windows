@@ -5,7 +5,7 @@ This program run on the background and change the desktop wallpaper every 2-5 mi
 
 ## How to run:
 Download main.py file and then run:
-> python app.py   
+> python main.py   
   
 ## Tools and Requirements:
 * PyCharm
