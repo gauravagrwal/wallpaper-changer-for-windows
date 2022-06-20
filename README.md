@@ -5,9 +5,12 @@ This program run on the background and change the desktop wallpaper every 2-5 mi
 
 ## How to run:
 Download main.py file and then run:
-> python main.py   
-  
+```
+.\venv\Scripts\activate
+python main.py   
+```
 ## Tools and Requirements:
+* Python 3.10
 * PyCharm
 * Unsplash API Key (https://unsplash.com/developers)
 
